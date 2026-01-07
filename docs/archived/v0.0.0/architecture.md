@@ -1,6 +1,6 @@
 # Pockets: Technical Architecture Proposal
 
-**Status:** Approved Specification  
+**Status:** OBSOLETE/HISTORICAL RECORD ONLY
 **Version:** 0.1.0  
 **Last Updated:** 2025-12-30  
 **Author:** Architecture Team

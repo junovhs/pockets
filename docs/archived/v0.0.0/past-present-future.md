@@ -1,8 +1,7 @@
 # Past / Present / Future
 
-**Status:** Canonical (living snapshot)  
+**Status:** Obsolete/Historical Record Only
 **Last updated:** 2025-12-30  
-**Canonical policy:** This document states the current operational reality and the single next action.
 
 ---
 
